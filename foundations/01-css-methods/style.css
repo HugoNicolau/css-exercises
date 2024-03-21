@@ -1,0 +1,11 @@
+button {
+    background-color: orange;
+    font-size: 18px;
+}
+
+div {
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+  }
